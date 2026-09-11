@@ -12,9 +12,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 2a52641af1d05834facac4063564c405, type: 3}
   m_Name: Item_HealthPotion
   m_EditorClassIdentifier: Assembly-CSharp::ItemData
-  _id: 
-  _displayName: 
-  _description: 
-  _icon: {fileID: 0}
+  _id: potion_health
+  _displayName: Health Potion
+  _description: Restores 25 health points when used
+  _icon: {fileID: 21300000, guid: 3a1c4b8d43c299e41b152affc29e4d06, type: 3}
   _isStackable: 1
-  _maxStack: 99
+  _maxStack: 5
